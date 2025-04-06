@@ -1,1 +1,1 @@
-cofig
+Project for working with configs for my environment
